@@ -1,1 +1,6 @@
-skin [name]
+Join Our Discord Server [https://discord.gg/GAbgmbatVw]
+
+skin <name>
+emote <name>
+backpack <name>
+pickaxe <name>
