@@ -1,6 +1,32 @@
 Join Our Discord Server [https://discord.gg/GAbgmbatVw]
 
-skin <name>
-emote <name>
+
+-commands 
+skin <name> 
+ex. skin renegade raider
+
+emote <name> 
+ex. emote floss
+
 backpack <name>
-pickaxe <name>
+ex. backpack Galactic Disc
+
+pickaxe <name> 
+ex. pickaxe star wand
+
+bp <battle pass tier>
+ex. bp 2000
+
+level <level>
+ex. level 1000
+
+
+
+
+-control-
+
+m!start <authcode>
+ex. m!start abababsboindwdwq2313f
+
+kill
+this turns the bot offline
